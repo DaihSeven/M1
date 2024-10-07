@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+}
+
+.card h1 {
+    color: white;
+}
+
+.card {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card button {
+    background-color: red;
+    width: 20%;
+    height: 10%;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+/* 
+pseudo-classe -> altera a visualização de elementos quando o usuario interage com o elemento / quando o estado muda.
+
+1.Vai alterar a visualização com a interação do usuario.
+2. É acompanhado com :
+*/
+
+.card button:hover{
+    background-color: green;
+    width: 40%;
+    height: 30%;
+}
+
+.card button:active{
+    background-color: blue;
+}
+
+.card a:active{
+    color: blue;
+}
+
+/* .card a:visited{
+    color: yellow;
+} */
+
+/* pseudo-elementos -> cria elementos visuais ficticios OU alterar o estilo de PARTE de um elemento*/
+
+.card h1::first-letter {
+    color: blue;
+}
+
+.card h1::after {
+    content: "!!";
+}
+
+.title {
+    background-color: red;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 1cm;
+}
+
+.title:hover {
+    font-size: 1.5cm;
+    background-color: blue;
+}
+
+.container {
+    background-color: black;
+    max-width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.container .l1 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.container .l2 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+.container .l3 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+@media screen and (max-width: 450px){
+    .container {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+}

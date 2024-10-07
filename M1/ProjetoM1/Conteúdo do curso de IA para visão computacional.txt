@@ -1,0 +1,1761 @@
+O certificado será emitido em até 30 dias após o encerramento do curso, ou seja, para fazer o download, você deverá aguardar até 30/10. Caso você não encontre seu certificado disponível para download em 30/10, significa que, infelizmente, você não cumpriu os requisitos de aprovação do curso. 
+
+Para fazer o download, você deverá:
+Acessar a página https://www.qualifacti.com.br/consultaCertificados. O acesso deverá ser feito copiando e colando o link. Do contrário, você poderá ter dificuldade para acessar;
+Selecionar o curso realizado;
+Inserir o CPF;
+Clicar em “Consultar”;
+Clicar em “Download”.
+Reiteramos o nosso convite para seguir a Facti nas redes sociais! Assim, você ficará por dentro dos próximos cursos do QualiFacti! Visite também o nosso site em https://qualifacti.facti.com.br/ para mais informações.
+
+Material
+1.1. Etapa Inspirar
+Item postado: 1 de jun.
+Olá, 
+
+Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. 
+
+Antes de acessar os links disponibilizados no final da página, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+Você conhece Inteligência Artificial (IA)? 
+Assista ao vídeo "Inteligência Artificial: o começo de tudo".
+Leia o artigo "O que é a Inteligência Artificial? Um guia simples para entender a tecnologia."
+Ouça o podcast "O melhor e o pior da inteligência artificial - Café da Manhã".
+Você já conhece possíveis aplicações para a IA? Assista ao vídeo para ver alguns exemplos.
+Assista ao vídeo "17 ferramentas de Inteligência Artificial que vão muito além do ChatGPT!"
+Será que vale a pena aprender mais sobre IA? Leia o artigo a seguir e visualize algumas perspectivas.
+Leia o artigo "O que vem por aí para a Inteligência Artificial em 2024".
+Por fim, reflita sobre a seguinte questão: "Como posso permanecer atualizado num mundo em constante evolução alavancada pela Inteligência Artificial?"
+
+Inteligência Artificial: o começo de tudo
+Vídeo do YouTube • ‪4 minutos‬
+
+O que é inteligência artificial? Um guia simples para entender a tecnologia - BBC News Brasil
+https://www.bbc.com/portuguese/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3
+
+O melhor e o pior da inteligência artificial - Café da Manhã | Podcast on Spotify
+https://open.spotify.com/episode/4TkUtd6bYudNYmbNv6aFTP
+
+17 ferramentas de Inteligência Artificial que vão muito além do ChatGPT!
+Vídeo do YouTube • ‪15 minutos‬
+
+O que vem por aí para a Inteligência Artificial em 2024.pdf
+PDF
+1.2
+Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo abaixo (disponibilizado por meio dos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "Inteligência Artificial (IA): Prós e Contras"
+Assista ao vídeo "Inteligência Artificial, a ponte para uma sociedade mais (des)igual?" 
+Assista ao vídeo (ative legenda) "Inteligencia Artificial:  ¿ Amiga o Enemiga?"
+
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Inteligência Artificial (IA): Prós e Contras
+Vídeo do YouTube • ‪2 minutos‬
+
+Inteligência Artificial, a ponte para uma sociedade mais (des)igual? | Pedro Saleiro | TEDxPorto
+Vídeo do YouTube • ‪10 minutos‬
+
+Inteligencia Artificial: ¿Amiga o Enemiga? | Diego Fernández Slezak | TEDxRiodelaPlata
+Vídeo do YouTube • ‪10 minutos‬
+
+1.3
+Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Introdução à Inteligência Artificial
+Assista ao vídeo "O QUE É A INTELIGÊNCIA ARTIFICIAL (AI)?"
+2. Contexto Histórico
+Assista ao vídeo "Inteligência artificial: o que é, história e definição"
+Assista ao vídeo "A EVOLUÇÃO DAS I.A - ANDRÉ RONCAGLIA"
+3. Definições e conceitos de IA
+Leia o artigo "Desafio na regulamentação da inteligência artificial: conceituar o que é ou não é IA"                                                 
+4. Tipos e modelos de IA
+Leia o artigo "Proteção intelectual de obras produzidas por sistemas baseados em inteligência artificial"
+Leia o artigo "Inteligência artificial forte como sujeito de direito e a ética por trás do seu desenvolvimento"                                                                   
+5. Importância e aplicações na sociedade moderna
+Assista ao vídeo "Comissão recebe sugestões para marco regulatório da inteligência artificial"
+Assista ao vídeo "O uso da INTELIGÊNCIA ARTIFICIAL na Medicina e na Saúde!"
+Assista ao vídeo "Inteligência Artificial na indústria: o futuro chegou"
+Assista ao vídeo "Curso "Inteligência Artificial na Educação" - aula 1(principais conceitos)"
+Assista ao vídeo "Curso "Inteligência Artificial na Educação" - aula 2(ChatGPT e Bing)"
+Assista ao vídeo "INTELIGÊNCIA ARTIFICIAL APLICADA NA AGRICULTURA"
+Leia o artigo "Prevenção de fraudes a partir da IA"
+Assista ao vídeo "Entenda: o que é uma cidade inteligente ou smart city?"
+6.  Aprendizado de Máquina
+Ouça o podcast "Episódio 11 - Qual a diferença entre Cientista de Dados e Engenheiro de Machine Learning?"
+Assista ao vídeo "Machine Learning (O que faz o ChatGPT funcionar) // Dicionário do Programador"
+7. Redes neurais e Deep Learning
+Assista ao vídeo "Redes neurais e Machine Learning | Nerdologia Tech"
+Leia o artigo "Redes neurais versus aprendizado profundo - Diferença entre campos de inteligência artificial - AWS"
+8. Mineração de dados
+Leia o artigo "Open Journal Systems | Mineração de dados: aplicações, ferramentas, tipos de aprendizado e outros subtemas"
+Assista ao vídeo "IA X Machine Learning X Ciência de dados"
+
+Comissão recebe sugestões para marco regulatório da inteligência artificial
+Vídeo do YouTube • ‪4 minutos‬
+
+Prevenção de fraudes a partir da IA
+https://blog.engdb.com.br/prevencao-de-fraudes/
+
+Inteligência artificial: o que é, história e definição
+Vídeo do YouTube • ‪18 minutos‬
+
+Curso “Inteligência Artificial na Educação” – aula 1 (principais conceitos)
+Vídeo do YouTube • ‪54 minutos‬
+
+Curso “Inteligência Artificial na Educação” – aula 2 (ChatGPT e Bing)
+Vídeo do YouTube • ‪41 minutos‬
+
+O QUE É A INTELIGÊNCIA ARTIFICIAL (AI)?
+Vídeo do YouTube • ‪4 minutos‬
+
+A EVOLUÇÃO DAS I.A - ANDRÉ RONCAGLIA
+Vídeo do YouTube • ‪6 minutos‬
+
+Inteligência Artificial na Indústria: o futuro chegou
+Vídeo do YouTube • ‪4 minutos‬
+
+INTELIGÊNCIA ARTIFICIAL APLICADA NA AGRICULTURA
+Vídeo do YouTube • ‪33 minutos‬
+
+O uso da INTELIGÊNCIA ARTIFICIAL na Medicina e na Saúde !
+Vídeo do YouTube • ‪6 minutos‬
+
+Entenda: o que é uma cidade inteligente ou smart city?
+Vídeo do YouTube • ‪6 minutos‬
+
+Just a moment...
+https://www.jusbrasil.com.br/artigos/protecao-intelectual-de-obras-produzidas-por-sistemas-baseados-em-inteligencia-artificial/1437143236
+
+Inteligencia artificial forte como sujeito de direito.pdf
+PDF
+
+Redes Neurais e Machine Learning | Nerdologia Tech
+Vídeo do YouTube • ‪9 minutos‬
+
+Open Journal Systems
+https://revistas.ufpr.br/atoz/article/view/41340/25332
+
+IA X Machine Learning X Ciência de Dados
+Vídeo do YouTube • ‪5 minutos‬
+
+Episódio 11 - Qual a Diferença Entre Cientista de Dados e Engenheiro de Machine Learning?
+Vídeo do YouTube • ‪17 minutos‬
+
+Machine Learning (O que faz o ChatGPT funcionar) // Dicionário do Programador
+Vídeo do YouTube • ‪15 minutos‬
+
+Redes neurais versus aprendizado profundo – Diferença entre campos de inteligência artificial – AWS
+https://aws.amazon.com/pt/compare/the-difference-between-deep-learning-and-neural-networks/
+
+Desafio na regulamentação da inteligência artificial: conceituar o que é ou não é IA? | IAgora? | Época NEGÓCIOS
+https://epocanegocios.globo.com/colunas/iagora/coluna/2022/11/desafio-na-regulamentacao-da-inteligencia-artificial-conceituar-o-que-e-ou-nao-e-ia.ghtml
+
+1.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final desta página, para:
+Assistir ao vídeo "2030 a 2050 Os avanços tecnológicos | Como será o futuro do mundo e da humanidade" 
+Ouvir o podcast "PodTech: Inteligência Artificial e o viés inconsciente"                                   
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Introdução à Inteligência Artificial
+Formulários Google
+
+PodTech: Inteligência Artificial e o viés inconsciente
+https://futura.frm.org.br/conteudo/midias-educativas/podcast/ia-e-o-vies-inconsciente?authuser=0
+
+2030 a 2050 Os avanços tecnológicos | Como será o futuro do mundo e da humanidade
+Vídeo do YouTube • ‪11 minutos‬
+
+CAP2
+2.1: Você já ouviu o termo Visão Computacional?
+Assista ao vídeo "Visão Computacional: O que é e 7 aplicações atuais"
+Leia o artigo "Blog NVIDIA - O que é Visão Computacional?"
+Ouça o podcast "Computer Vision (feat. Programação Dinâmica no Data Hackers Podcast"
+Já conhece alguma aplicação de Visão Computacional?
+Assista ao vídeo "Protegendo as tartarugas marinhas de Galápagos com visão computacional | SAS Software"
+Será que vale a pena aprender mais sobre Visão Computacional?
+Assista ao vídeo "Hands-on with Gemini: Interacting with multimodal AI"
+Reflita sobre a frase "Como posso me beneficiar com a utilização de Visão Computacional em minha carreira?".
+
+Visão Computacional: O que é e 7 aplicações atuais
+Vídeo do YouTube • ‪3 minutos‬
+
+O que é Visão Computacional? | Blog da NVIDIA
+https://blog.nvidia.com.br/2020/12/11/o-que-e-visao-computacional
+
+Computer Vision (feat. Programação Dinâmica) - Data Hackers Podcast 30 by Data Hackers
+https://podcasters.spotify.com/pod/show/datahackers/episodes/Computer-Vision-feat--Programao-Dinmica---Data-Hackers-Podcast-30-ejtu1t/a-a39h3nc
+
+Protegendo as tartarugas marinhas de Galápagos com visão computacional | SAS Software
+Vídeo do YouTube • ‪1 minuto‬
+
+The capabilities of multimodal AI | Gemini Demo
+Vídeo do YouTube • ‪6 minutos‬
+2.2: Antes de criar a proposta para o estudo de caso apresentado, consulte os links disponibilizados ao final desta página para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "PORQUE EU ESCOLHI A ÁREA DE VISÃO COMPUTACIONAL E IA"
+Ouça o podcast "Let‘s Talk (Brasil) - 101 - Visão Computacional: do zero à produção! (Episódio 1)"
+Ouça
+
+ o podcast "Let‘s Talk (Brasil) - 102 - Visão Computacional: do zero à produção! (Episódio 2)"
+Ouça
+
+ o podcast "Let‘s Talk (Brasil) - 103 - Visão Computacional: do zero à produção! (Episódio 3)"
+Leia o artigo "Certi - Visão computacional: conheça as aplicações e a importância para a transformação digital"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua proposta inicial de solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+PORQUE EU ESCOLHI A ÁREA DE VISÃO COMPUTACIONAL E IA
+Vídeo do YouTube • ‪3 minutos‬
+
+101 - Visão Computacional: do — Let‘s Talk (Brasil) — Apple Podcasts
+https://podcasts.apple.com/br/podcast/101-vis%C3%A3o-computacional-do-zero-%C3%A0-produ%C3%A7%C3%A3o-epis%C3%B3dio-1/id1472441130?i=1000543647161
+
+102 - Visão Computacional: do — Let‘s Talk (Brasil) — Apple Podcasts
+https://podcasts.apple.com/br/podcast/102-vis%C3%A3o-computacional-do-zero-%C3%A0-produ%C3%A7%C3%A3o-epis%C3%B3dio-2/id1472441130?i=1000543648359
+
+103 - Visão Computacional: do — Let‘s Talk (Brasil) — Apple Podcasts
+https://podcasts.apple.com/br/podcast/103-vis%C3%A3o-computacional-do-zero-%C3%A0-produ%C3%A7%C3%A3o-epis%C3%B3dio-3/id1472441130?i=1000543652715
+
+Visão computacional: conheça a importância para a transformação digital
+https://certi.org.br/blog/visao-computacional
+
+Apresentação da solução inicial - Introdução à Visão Computacional
+Formulários Google
+2.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Introdução à Visão Computacional:
+Assista ao vídeo "O que é VISÃO COMPUTACIONAL? Conceito e Aplicações | IA Descomplicada #02"
+2. Contexto histórico:
+Leia o artigo "SAS - Visão Computacional. O que é e qual sua importância?"
+3. Aquisição e representação de imagens digitais:
+Assista ao vídeo "O QUE É uma IMAGEM? | Processamento de Imagens #1"
+4. Fundamentos de processamento de imagens:
+Leia o artigo "ICMC-USP Fundamentos de Processamento de Imagens"
+5. Aplicações da Visão Computacional:
+Ouça o podcast "USP - Momento Tecnologia #77: Visão computacional da MVISIA aprimora linha industrial de massas e biscoitos"
+Assista ao vídeo "Join us for the American Sign Language (ASL) Fingerspelling Competition"
+(ativar tradutor automático)
+Assista ao vídeo "Tipos de Problemas ou Tarefas em Visão Computacional"
+6.  Rastreamento de objetos em sequências de vídeo:
+Leia o artigo "Lume UFRGS Rastreamento de objetos em sequências de vídeo utilizando múltiplos filtros de correlação"
+7. Aplicações em vigilância e automação:
+Leia: On the Water with the FLIR M364C Camera | FLIR Systems | Maritime Thermal Night Vision" (ativar tradutor automático)
+Assista ao vídeo "Roundabout traffic analysis using drone video and computer vision - speed heatmap"
+8. Reconhecimento facial e biometria:
+Assista ao vídeo "How secure is Biometric Authentication Technology and Biometric Data? | Biometric Security"
+(ativar tradutor automático)
+9. Visão Computacional em medicina e diagnóstico:
+Assista ao vídeo "3D MRI brain segmentation - Made with TensorFlow.js (ativar tradutor automático)"
+Assista ao vídeo "Radiological image segmentation with Medseg - Made with TensorFlow.js (ativar tradutor automático)"
+10. Aplicações em veículos autônomos e drones:
+Assista ao vídeo "The Waymo Driver navigating freeways"
+11. Visão Computacional em robótica:
+Assista ao vídeo "VISÃO COMPUTACIONAL NA INDÚSTRIA"
+Assista ao vídeo "Como o Sistema de Visão WEG pode garantir a qualidade e a segurança dos rótulos em embalagens"
+12. Redes neurais e Deep Learning para a Visão Computacional:
+Assista ao vídeo "Generative Adversarial Networks (GANs) and Stable Diffusion" (ativar tradutor automático)
+13. Apresentando a plataforma Edge Impulse:
+Assista ao vídeo "What Is Edge Impulse and tinyML?" (ativar tradutor automático)
+ 14. Criando um assistente de voz com No Code:
+Assista ao vídeo "Voice-Activated micro:bit with Machine Learning" (ativar tradutor automático)
+
+O que é VISÃO COMPUTACIONAL? Conceito e Aplicações | IA Descomplicada #02
+Vídeo do YouTube • ‪14 minutos‬
+Link
+https://www.sas.com/pt_br/insights/analytics/computer-vision.html
+
+O QUE É uma IMAGEM? | Processamento de Imagens #1
+Vídeo do YouTube • ‪15 minutos‬
+Link
+http://wiki.icmc.usp.br/images/1/13/DIP_01_Fundamentos.pdf
+
+Momento Tecnologia #77: Visão computacional da MVISIA aprimora linha industrial de massas e biscoitos – Jornal da USP
+https://jornal.usp.br/podcast/momento-tecnologia-77-visao-computacional-da-mvisia-aprimora-linha-industrial-de-massas-e-biscoitos
+
+Join us for the American Sign Language (ASL) Fingerspelling Competition
+Vídeo do YouTube • ‪3 minutos‬
+
+Tipos de Problemas ou Tarefas em Visão Computacional
+Vídeo do YouTube • ‪11 minutos‬
+
+Rastreamento de objetos em sequências de vídeo utilizando múltiplos filtros de correlação
+https://lume.ufrgs.br/handle/10183/225708
+
+On the Water with the FLIR M364C Camera | FLIR Systems | Maritime Thermal Night Vision
+Vídeo do YouTube • ‪2 minutos‬
+
+Roundabout traffic analysis using drone video and computer vision - speed heatmap
+Vídeo do YouTube • ‪0 minutos‬
+
+How secure is Biometric Authentication Technology and Biometric Data? | Biometric Security
+Vídeo do YouTube • ‪12 minutos‬
+
+3D MRI brain segmentation - Made with TensorFlow.js
+Vídeo do YouTube • ‪10 minutos‬
+
+Radiological image segmentation with Medseg - Made with TensorFlow.js
+Vídeo do YouTube • ‪11 minutos‬
+
+The Waymo Driver navigating freeways
+Vídeo do YouTube • ‪1 minuto‬
+
+VISÃO COMPUTACIONAL NA INDÚSTRIA
+Vídeo do YouTube • ‪21 minutos‬
+
+Como o Sistema de Visão WEG pode garantir a qualidade e a segurança dos rótulos em embalagens
+Vídeo do YouTube • ‪0 minutos‬
+
+Generative Adversarial Networks (GANs) and Stable Diffusion
+Vídeo do YouTube • ‪44 minutos‬
+
+What Is Edge Impulse and tinyML?
+Vídeo do YouTube • ‪4 minutos‬
+
+Voice-Activated micro:bit with Machine Learning
+Vídeo do YouTube • ‪14 minutos‬
+2.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final desta página, para:
+Assista ao vídeo "On-device fetal ultrasound assessment with TensorFlow Lite" (não se esqueça de habilitar a legenda com tradução automática para o português do Brasil caso necessite)
+Assista ao vídeo "Announcing FOMO (Faster Objects, More Objects)" (não se esqueça de habilitar a legenda com tradução automática para o português do Brasil caso necessite)
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+On-device fetal ultrasound assessment with TensorFlow Lite
+Vídeo do YouTube • ‪2 minutos‬
+
+Announcing FOMO (Faster Objects, More Objects)
+Vídeo do YouTube • ‪12 minutos‬
+CAP3
+3.1: Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. 
+
+Antes de acessar os links disponibilizados ao final desta página, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+Você conhece a linguagem de programação Python? 
+Assista ao vídeo "Para que serve o Python?"
+Leia o artigo "O Que é Python: Guia completo da Linguagem de Programação." 
+Ouça o Podcast "Ecossistema Python – Hipsters Ponto Tech #387"
+Você já conhece possíveis aplicações dessa linguagem? Leia o artigo a seguir para ver um exemplo.
+Difusão da linguagem Python no desenvolvimento de sistemas web: pesquisa exploratória em empresas brasileiras (Link)
+Será que vale a pena aprender a programar nesta linguagem? Assista ao vídeo e visualize algumas perspectivas.
+Perspectivas para Python em 2024
+Por fim, reflita sobre estas questões: "Como posso usar essa ferramenta, Python, não apenas para resolver problemas, mas para criar soluções que nunca imaginei antes? Como posso ir além do básico e explorar as possibilidades ilimitadas que essa linguagem oferece?"
+
+Curso Python #02 - Para que serve o Python?
+Vídeo do YouTube • ‪21 minutos‬
+
+O Que é Python: Guia Completo da Linguagem de Programação
+https://www.hostinger.com.br/tutoriais/python-o-que-e?authuser=0
+
+Ecossistema Python - Hipsters Ponto Tech #387 - Hipsters Ponto TechHipsters Ponto Tech
+https://www.hipsters.tech/ecossistema-python-hipsters-ponto-tech-387/?authuser=0
+Link
+https://simpep.feb.unesp.br/anais/anais_13/artigos/1053.pdf?authuser=0
+
+PERSPECTIVAS PARA PYTHON EM 2024 (Análise Completa ft. @canaldevpro)
+Vídeo do YouTube • ‪19 minutos‬
+3.2:Antes de criar a proposta para o estudo de caso apresentado, consulte os links disponibilizados ao final desta página para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "O que dá pra Fazer com Python? - Aplicações de Python"
+Leia o artigo "25 projetos em Python para iniciantes – ideias fáceis para começar a programar em Python"
+Leia o artigo "Para que serve o Python? Mais de 10 casos de utilização da linguagem de programação Python"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua proposta inicial de solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+O que dá pra Fazer com Python? - Aplicações de Python
+Vídeo do YouTube • ‪8 minutos‬
+
+25 projetos em Python para iniciantes – ideias fáceis para começar a programar em Python
+https://www.freecodecamp.org/portuguese/news/25-projetos-em-python-para-iniciantes-ideias-faceis-para-comecar-a-programar-em-python/
+
+Para que serve o Python? Mais de 10 casos de utilização da linguagem de programação Python
+https://www.freecodecamp.org/
+3.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Introdução ao Python e Ferramentas de programação em Python
+Assista ao vídeo "O que é PYTHON: conceitos básicos, como instalar e para que serve"
+2. Tipos de Dados, Variáveis e Constantes e Comando de entrada
+Assista ao vídeo "Python 3: Variáveis, Entrada e Saída de Dados"
+Leia o artigo "Operadores Aritméticos e Lógicos em Python"
+3. Controle de Fluxo
+Leia o artigo "Python| Estruturas de Controle"
+Assista ao vídeo "If, Elif, Else (Estruturas de Decisão) | Python em 30 minutos"
+Assista ao vídeo "For no Python - Criando Loop com For no Python - Em Menos de 5 Min!"
+Assista ao vídeo "While em Python"
+4. Funções (Modularidade)
+Assista ao vídeo "Curso Python #20 - Funções (Parte 1)"
+Leia o artigo "Aprenda a criar funções em Python"
+5. Manipulação de Arquivos e Strings
+Leia o artigo "Manipulação de Strings em Python"
+Leia o artigo "Como Manipular Arquivos em Python do Jeito Mais Eficiente"
+Assista ao vídeo "O que é uma String em Python?"
+Assista ao vídeo "Curso de Python para iniciantes #12 - Manipulando Arquivos"
+6. Estruturas de Dados
+Leia o artigo "5. Estruturas de dados"
+Assista ao vídeo "Curso Python #16 - Tuplas"
+Assista ao vídeo "Curso Python #17 - Listas (Parte 1)"
+Assista ao vídeo "Curso Python #19 - Dicionários"
+7. Bibliotecas voltadas para IA
+Leia o artigo "10 melhores bibliotecas Python para aprendizado de máquina e IA"
+Leia o artigo "6 frameworks e bibliotecas Python para Machine Learning e Inteligência Artificial"
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+Use o link do Google Colab (Etapa Conceitualizar: Solucionário) para verificar as sugestões de implementação para as atividades propostas.
+
+O que é PYTHON: conceitos básicos, como instalar e para que serve
+Vídeo do YouTube • ‪7 minutos‬
+
+Python 3: Variáveis, Entrada e Saída de Dados
+Vídeo do YouTube • ‪6 minutos‬
+
+Operadores Aritméticos e Operadores Lógicos em Python
+https://pythonacademy.com.br/blog/operadores-aritmeticos-e-logicos-em-python
+
+Python | Estruturas de Controle | Byte§apiens
+https://bytesapiens.com.br/tutoriais/programacao/python/estruturas_controle/
+
+If, Elif, Else (Estruturas de Decisão) | Python em 30 minutos
+Vídeo do YouTube • ‪27 minutos‬
+
+For no Python - Criando Loop com For no Python - Em Menos de 5 Min!
+Vídeo do YouTube • ‪4 minutos‬
+
+While em Python
+Vídeo do YouTube • ‪5 minutos‬
+
+Curso Python #20 - Funções (Parte 1)
+Vídeo do YouTube • ‪52 minutos‬
+
+Aprenda a criar Funções em Python
+https://pythonacademy.com.br/blog/funcoes-em-python
+
+Programático | Programático
+https://algoritmosempython.com.br/cursos/programacao-python/strings/
+
+Como Manipular Arquivos em Python do Jeito Mais Eficiente - Vai programar
+https://vaiprogramar.com/como-manipular-arquivo-python/
+
+O QUE É UMA STRING PYTHON? [em 2 minutos]
+Vídeo do YouTube • ‪1 minuto‬
+
+Curso de Python para iniciantes #12 - Manipulando Arquivos
+Vídeo do YouTube • ‪19 minutos‬
+
+5. Estruturas de dados — Documentação Python 3.12.6
+https://docs.python.org/pt-br/3/tutorial/datastructures.html
+
+Curso Python #16 - Tuplas
+Vídeo do YouTube • ‪53 minutos‬
+
+Curso Python #17 - Listas (Parte 1)
+Vídeo do YouTube • ‪40 minutos‬
+
+Curso Python #19 - Dicionários
+Vídeo do YouTube • ‪45 minutos‬
+
+10 melhores bibliotecas Python para aprendizado de máquina e IA (2024) - Unite.AI
+https://www.unite.ai/pt/10-melhores-bibliotecas-python-para-aprendizado-de-m%C3%A1quina-ai/
+
+6 frameworks e bibliotecas Python para Machine Learning e Inteligência Artificial - Dojô ByLearn
+https://dojo.bylearn.com.br/python/python-para-machine-learning/
+
+Etapa Conceitualizar: Solucionário.ipynb - Colab
+https://colab.research.google.com/drive/1Gx8Pww4GPnJQAI_VE-bJeWo1LEJku884?usp=sharing
+3.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final desta página, para:
+Ler o artigo "Python: Dicas de boas práticas em Python", que apoiará você na evolução do estudo de caso anteriormente elaborada.
+Acessar o Google Colab "Consolidando o conhecimento" para verificar a sugestão de implementação para o exemplo proposto.
+
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Consolidando o conhecimento.ipynb - Colab
+https://colab.research.google.com/drive/15xWN85OnsuNGviBWG27yl0WWq9KEuV9A?usp=sharing
+
+Python: Dicas de boas práticas em Python - Balaio Científico
+https://www.balaiocientifico.com/
+CAP4
+4.1: Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre o reconhecimento facial? 
+
+Acesse os conteúdos a seguir por meio dos links ao final da página.
+Assista ao vídeo "Como a tecnologia de reconhecimento facial é usada mundo afora"
+Leia o artigo "O que é reconhecimento facial e como ele funciona?"
+Ouça o podcast "Tellus Podcast #6 - Reconhecimento Facial"
+Quais são as aplicações do reconhecimento facial vocês já ouviu falar?
+Assista ao vídeo "O que é reconhecimento facial e como ele pode afetar sua vida"
+Assista ao vídeo "Como a tecnologia de reconhecimento facial já é usada no Brasil"
+Ouça o podcast "Vigilância através do reconhecimento facial"
+Ouça o podcast "ES terá reconhecimento facial ligado ao cerco inteligente, até o fim do ano"
+Ouça o podcast "Reconhecimento facial para compra; Deepfake em comercial e IA na Europa"
+Quais são os riscos e vieses que você imagina que podem surgir com o reconhecimento facial?
+Assista ao vídeo "Entenda: os riscos do reconhecimento facial!"
+Leia o artigo "Reconhecimento facial: tecnologia, racismo e construção de mundos possíveis"
+Ouça o podcast "Episódio 037 - Reconhecimento facial e ética"
+Ouça o podcast "Será possível mitigar o viés nos algoritmos de reconhecimento facial?"
+Ouça o podcast "Senado propõe regras sobre inteligência artificial e restrição a uso de reconhecimento facial"
+Por fim, reflita sobre estas questões: "Como o reconhecimento facial pode ser aplicado para personalizar a experiência do usuário em diferentes setores? Quais estratégias inovadoras podem ser implementadas para garantir a segurança e a privacidade dos dados no uso do reconhecimento facial, especialmente em aplicações sensíveis como sistemas bancários ou controle de acesso?"
+
+Como a tecnologia de reconhecimento facial é usada mundo afora
+Vídeo do YouTube • ‪6 minutos‬
+
+O que é reconhecimento facial e como ele funciona?
+https://www.kaspersky.com.br/resource-center/definitions/what-is-facial-recognition
+
+Tellus Podcast #6 - Reconhecimento Facial com Alessandro de Oliveira Faria - Tellus Podcast | Podcast on Spotify
+https://open.spotify.com/episode/1utYFqpHfGO7O2m6nFVzqr?si=z0NlStxNTLqA4tspFpW9UA
+
+O que é reconhecimento facial e como ele pode afetar sua vida | FOLHA EXPLICA
+Vídeo do YouTube • ‪14 minutos‬
+
+Como a tecnologia de reconhecimento facial já é usada no Brasil
+Vídeo do YouTube • ‪6 minutos‬
+
+Regina Zappa &amp; Mario Vitor Podcast - Mario Vitor & Regina Zappa - Vigilância através do reconhecimento facial 21.12.23 | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-6m3ey-1c81b88f
+
+CBN Vitória - Entrevistas Podcast - ES terá reconhecimento facial ligado ao cerco inteligente, até o fim do ano | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-q8af4-1cb57a39
+
+RM Daily Bytes Podcast - Reconhecimento facial para compra; Deepfake em comercial e IA na Europa | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-m5h54-195ef399
+
+Entenda: os riscos do reconhecimento facial!
+Vídeo do YouTube • ‪6 minutos‬
+Link
+https://www.scielo.br/j/psoc/a/wJFV8yjBBr7cYnm3q6SXDjF/?lang=pt&format=pdf&authuser=0
+
+Episódio 037: Reconhecimento facial e ética | Pizza de Dados
+https://podcast.pizzadedados.com/e/episodio-037/?authuser=0
+
+INESC TEC Science Bits Podcast - INESC TEC Science Bits #37 -Será possível mitigar o viés nos algoritmos de reconhecimento facial? | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-32nqg-1c7d1605?authuser=0
+
+Notícia no Seu Tempo Podcast - Senado propõe regras sobre inteligência artificial e restrição a uso de reconhecimento facial | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-x8x68-16b38993?authuser=0
+4.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "Ficamos irreconhecíveis? Saiba como as máscaras afetam o nosso reconhecimento facial"
+Leia o artigo "Reconhecimento facial com máscara já é uma realidade – gostemos ou não"
+Leia o artigo "Diante de pandemia, tecnologia avança para reconhecer rostos com máscaras"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Ficamos irreconhecíveis? Saiba como as máscaras afetam o nosso reconhecimento facial
+Vídeo do YouTube • ‪7 minutos‬
+
+Reconhecimento facial com máscara já é uma realidade – gostemos ou não | National Geographic
+https://www.nationalgeographicbrasil.com/ciencia/2020/09/reconhecimento-facial-com-mascara-ja-e-uma-realidade-gostemos-ou-nao
+
+Diante de pandemia, tecnologia avança para reconhecer rostos com máscaras | CNN Brasil
+https://www.cnnbrasil.com.br/tecnologia/diante-de-pandemia-tecnologia-avanca-para-reconhecer-rostos-com-mascaras/
+
+Apresentação da solução inicial - Visão Computacional aplicada ao reconhecimento facial em imagens
+Formulários Google
+
+4.3: Antes de acessar os links disponíveis ao final da página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Entenda como a tecnologia funciona e quais são os setores que é usada 
+Assista ao vídeo "Reconhecimento facial, entenda de uma vez por todas como ela funciona!"
+2. Realize o download do arquivo Material_complementar_reconhecimento_facial.zip, salve-o e descompacte a pasta em um local de fácil localização, conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Use os arquivos do PyCharm (Etapa Conceitualizar: Atividade de experimentação 58-62) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Reconhecimento facial, entenda de uma vez por todas como ela funciona!
+Vídeo do YouTube • ‪7 minutos‬
+
+Material_complementar_reconhecimento_facial.zip
+Arquivo compactado
+
+Etapa Conceitualizar - Atividade de experimentação 58.py
+Atividade de experimentação 58
+Escreva um programa, em Python, que transforme uma imagem colorida em uma imagem em escala de cinza.
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta fotos disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro do
+projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+import cv2 # realiza o import da função cv2
+
+print(cv2.__version__) # verifica qual a versão instalada
+
+help(cv2.face) # ajuda sobre a função cv2
+
+imagem = cv2.imread('outros\\carros5.jpg') # comando para leitura de uma imagem, atente-se para o caminho e extensão da imagem
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transforma a imagem colorida em escala de cinza
+
+cv2.imshow("Original", imagem) # comando para abrir a imagem original colorida
+cv2.imshow("Cinza", imagemCinza) # comando para abrir a imatem em escala de cinza
+
+cv2.waitKey() # comando que aguarda o fechamento das janelas com as imagens
+
+Etapa Conceitualizar - Atividade de experimentação 59.py
+Atividade de experimentação 59
+Escreva um programa, em Python, que utilize classificadores haarcascade para detectar relógios em imagens.
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta fotos disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro do
+projeto, no menu lateral esquerdo.
+
+#3 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+import cv2
+
+classificadorRelogio = cv2.CascadeClassifier('cascades\\relogios.xml') # utiliza um haarcascade treinado para detectar relógios
+
+imagem = cv2.imread('outros\\relogios1.jpg')  # 1.07 - atente-se para o caminho e extensão da imagem
+#imagem = cv2.imread('outros\\relogios2.jpg') # 1.068; 6
+#imagem = cv2.imread('outros\\relogios3.jpg') # 1.068
+#imagem = cv2.imread('outros\\relogios4.jpg') # 1.05
+#imagem = cv2.imread('outros\\relogios5.jpg') # 1.05
+#imagem = cv2.imread('outros\\relogios6.jpg') # 1.05
+
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transforma a imagem colorida em escala de cinza
+
+detectado = classificadorRelogio.detectMultiScale(imagemCinza, scaleFactor=1.07, minNeighbors=6)
+# comando para detectar relógios na imagem em escala de cinza. Você pode alterar os parâmetros scaleFactor e minNeighbors
+# para melhorar a precisão da detecção (alguns estão indicados como os números na frente da imagem acima)
+
+for (x, y, l, a) in detectado:
+    imagem = cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # comando para desenhar um retângulo na presença de relógio
+
+cv2.imshow(str(len(detectado)) + ' relogio(s) encontrado(s)', imagem) # mostrará a quantidade de relógios no título da janela
+cv2.waitKey() # comando que aguarda o fechamento das janelas com as imagens
+
+Etapa Conceitualizar - Atividade de experimentação 60.py
+Atividade de experimentação 60
+Escreva um programa, em Python, que utilize classificadores haarcascade para detectar gatos em imagens.
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta fotos disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro do
+projeto, no menu lateral esquerdo.
+
+#3 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+import cv2
+
+classificadorGato = cv2.CascadeClassifier('cascades\\gatos.xml') # utiliza um haarcascade treinado para detectar gatos
+
+imagem = cv2.imread('outros\\gatos1.jpg')  # 1.03; #10 - atente-se para o caminho e extensão da imagem
+#imagem = cv2.imread('outros\\gatos2.jpg') # 1.2; # 2
+#imagem = cv2.imread('outros\\gatos3.jpg') #1.02; 9
+#imagem = cv2.imread('outros\\gatos4.jpg') # 1.08; #10
+#imagem = cv2.imread('outros\\gatos5.jpg') # 1.069; #10
+
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transforma a imagem colorida em escala de cinza
+
+detectado = classificadorGato.detectMultiScale(imagemCinza, scaleFactor=1.02, minNeighbors=9)
+# comando para detectar gatos na imagem em escala de cinza. Você pode alterar os parâmetros scaleFactor e minNeighbors
+# para melhorar a precisão da detecção (alguns estão indicados como os números na frente da imagem acima)
+
+for (x, y, l, a) in detectado:
+    imagem = cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # comando para desenhar um retângulo na presença de gatos
+
+cv2.imshow(str(len(detectado)) + ' gato(s) encontrado(s)', imagem) # mostrará a quantidade de gatos no título da janela
+cv2.waitKey() # comando que aguarda o fechamento das janelas com as imagens
+
+Etapa Conceitualizar - Atividade de experimentação 61.py
+Atividade de experimentação 61
+Escreva um programa, em Python, que utilize classificadores haarcascade para detectar carros em imagens.
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta fotos disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro do
+projeto, no menu lateral esquerdo.
+
+#3 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+import cv2
+
+classificadorCarro = cv2.CascadeClassifier('cascades\\carros.xml') # utiliza um haarcascade treinado para detectar carros
+
+imagem = cv2.imread('outros\\carros1.jpg') # 1.01; # 9; #70,70 - atente-se para o caminho e extensão da imagem
+#imagem = cv2.imread('outros\\carros2.jpg') # 1.053; #9
+#imagem = cv2.imread('outros\\carros3.jpg') # 1.02; # 8
+#imagem = cv2.imread('outros\\carros4.jpg') # 1.01; # 8
+#imagem = cv2.imread('outros\\carros5.jpg')  # 1.01; # 9; #70,70
+
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transforma a imagem colorida em escala de cinza
+# comando para detectar carros na imagem em escala de cinza. Você pode alterar os parâmetros scaleFactor e minNeighbors
+# para melhorar a precisão da detecção (alguns estão indicados como os números na frente da imagem acima)
+
+detectado = classificadorCarro.detectMultiScale(imagemCinza, scaleFactor=1.01, minNeighbors=9, minSize=(70, 70))
+
+for (x, y, l, a) in detectado:
+    imagem = cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # comando para desenhar um retângulo na presença de carros
+
+cv2.imshow(str(len(detectado)) + ' carro(s) encontrado(s)', imagem) # mostrará a quantidade de carros no título da janela
+cv2.waitKey() # comando que aguarda o fechamento das janelas com as imagens
+
+Etapa Conceitualizar - Atividade de experimentação 62.py
+Atividade de experimentação 62
+Escreva um programa, em Python, que utilize classificadores haarcascade para detectar faces em imagens.
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta fotos disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro do
+projeto, no menu lateral esquerdo.
+
+#3 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+import cv2
+
+classificador = cv2.CascadeClassifier('cascades\\haarcascade_frontalface_default.xml') # utiliza um haarcascade treinado para detectar faces
+
+imagem = cv2.imread('pessoas\\beatles.jpg')  #1.15, #7, #20x20 - atente-se para o caminho e extensão da imagem
+#imagem = cv2.imread('pessoas\\pessoas1.jpg') #1.08 , #6
+#imagem = cv2.imread('pessoas\\pessoas2.jpg') #1.2 // #1.15, #7
+#imagem = cv2.imread('pessoas\\pessoas3.jpg') #
+#imagem = cv2.imread('pessoas\\pessoas4.jpg') #1.01 // #1.01, #9
+#imagem = cv2.imread('pessoas\\pessoas5.jpg')
+#imagem = cv2.imread('pessoas\\pessoas6.jpg')
+#imagem = cv2.imread('pessoas\\pessoas7.jpg')
+#imagem = cv2.imread('pessoas\\faceolho.jpg')
+#imagem = cv2.imread('pessoas\\olho.jpg')
+
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transforma a imagem colorida em escala de cinza
+
+facesDetectadas = classificador.detectMultiScale(imagemCinza, scaleFactor=1.15, minNeighbors=7, minSize=(20, 20))
+# comando para detectar faces na imagem em escala de cinza. Você pode alterar os parâmetros scaleFactor, minNeighbors e
+# minSize para melhorar a precisão da detecção (alguns estão indicados como os números na frente da imagem acima)
+
+for (x, y, l, a) in facesDetectadas:
+    #print(x, y, l, a)
+    imagem = cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # comando para desenhar um retângulo na presença de faces
+
+cv2.imshow(str(len(facesDetectadas)) + " face(s) encontrada(s)", imagem) # mostrará a quantidade de faces no título da janela
+cv2.waitKey() # comando que aguarda o fechamento das janelas com as imagens
+
+4.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para: 
+Ler o artigo "Reconhecimento facial com OpenCV (OpenCV: Face Recognition with OpenCV)". Se necessitar, você pode usar a opção de tradução da página.
+Acessar os arquivos do PyCharm "Etapa Consolidar: Algoritmo - captura, treinamento e reconhecimentos (eingenface, fisherface e lbph" para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento facial em imagens
+Formulários Google
+
+OpenCV: Face Recognition with OpenCV
+https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html?hl=pt-br
+Seus trabalhos
+
+Daiane Barbosa - Etapa Consolidar - 5 Algoritmo de reconhecimento lbph.py
+Estudo de Caso
+Algoritmo de reconhecimento LBPH
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+# Importando as bibliotecas
+import cv2
+
+detectorFace = cv2.CascadeClassifier("cascades\\haarcascade_frontalface_default.xml") # uso do haarcascade pora detectar face
+reconhecedor = cv2.face.LBPHFaceRecognizer_create() # traz a função do reconhecedor Eigenface
+reconhecedor.read('cascades\\classificadorLBPH.yml') # traz o classificador treinado
+largura, altura = 200, 200 # dimensão da imagem
+font = cv2.FONT_HERSHEY_COMPLEX_SMALL # tipo de letra
+camera = cv2.VideoCapture(0) # inicia a webcam para realizar o reconhecimento baseado no classificador
+
+while True:
+    conectado, imagem = camera.read() # realiza a leitura pela webcam
+    imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transfoma a imagem em escala de cinza
+    facesDetectadas = detectorFace.detectMultiScale(imagemCinza, scaleFactor=1.5, minSize=(30, 30)) # detecta a face encontrada
+
+    for (x, y, l, a) in facesDetectadas:
+        imagemFace = cv2.resize(imagemCinza[y:y + a, x:x + l], (largura, altura)) # redimensiona o tamanha da imagem capturada
+        cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # desenha o retângulo da detecção
+        id, confianca = reconhecedor.predict(imagemFace) # realiza a predição do reconhecimento
+        nome = ""
+        if id == 1:
+            nome = 'sem macara' # reconhecimento sem uso de máscara, conforme reconhecedor
+        elif id == 2:
+            nome = 'com mascara' # reconhecimento com uso de máscara, conforme reconhecedor
+        cv2.putText(imagem, nome, (x, y + (a + 40)), font, 2, (0, 0, 255)) # escreve o texto do reconhecimento
+        cv2.putText(imagem, str(confianca), (x, y + (a + 60)), font, 1, (0, 0, 255)) # escreve o texto do intervalo de confiança
+
+    cv2.imshow("Face", imagem) # mostra o título da janela
+    if cv2.waitKey(1) == ord('q'): # interrompe apertando a tecla Q
+        break
+
+camera.release()
+cv2.destroyAllWindows()
+
+Daiane Barbosa - Etapa Consolidar - 4 Algoritmo de reconhecimento fisherface.py
+Estudo de Caso
+Algoritmo de reconhecimento Fisherface
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+# Importando as bibliotecas
+import cv2
+
+detectorFace = cv2.CascadeClassifier("cascades\\haarcascade_frontalface_default.xml") # uso do haarcascade pora detectar face
+reconhecedor = cv2.face.FisherFaceRecognizer_create() # traz a função do reconhecedor Fisherface
+reconhecedor.read('cascades\\classificadorFisher.yml') # traz o classificador treinado
+largura, altura = 200, 200 # dimensão da imagem
+font = cv2.FONT_HERSHEY_COMPLEX_SMALL # tipo de letra
+camera = cv2.VideoCapture(0) # inicia a webcam para realizar o reconhecimento baseado no classificador
+
+while True:
+    conectado, imagem = camera.read() # realiza a leitura pela webcam
+    imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transfoma a imagem em escala de cinza
+    facesDetectadas = detectorFace.detectMultiScale(imagemCinza, scaleFactor=1.5, minSize=(30, 30)) # detecta a face encontrada
+
+    for (x, y, l, a) in facesDetectadas:
+        imagemFace = cv2.resize(imagemCinza[y:y + a, x:x + l], (largura, altura)) # redimensiona o tamanha da imagem capturada
+        cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # desenha o retângulo da detecção
+        id, confianca = reconhecedor.predict(imagemFace) # realiza a predição do reconhecimento
+        nome = ""
+        if id == 1:
+            nome = 'sem mascara' # reconhecimento sem uso de máscara, conforme reconhecedor
+        elif id == 2:
+            nome = 'com mascara' # reconhecimento com uso de máscara, conforme reconhecedor
+        cv2.putText(imagem, nome, (x, y + (a + 40)), font, 2, (0, 0, 255)) # escreve o texto do reconhecimento
+        cv2.putText(imagem, str(confianca), (x, y + (a + 60)), font, 1, (0, 0, 255)) # escreve o texto do intervalo de confiança
+
+    cv2.imshow("Face", imagem) # mostra o título da janela
+    if cv2.waitKey(1) == ord('q'): # interrompe apertando a tecla Q
+        break
+
+camera.release()
+cv2.destroyAllWindows()
+
+Daiane Barbosa - Etapa Consolidar - 2 Algoritmo de treinamento.py
+Estudo de Caso
+Algoritmo de treinamento das imagens
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+# Importando as bibliotecas
+import cv2
+import os
+import numpy as np
+
+eigenface = cv2.face.EigenFaceRecognizer_create() # traz a função de reconhecimento Eigenface
+fisherface = cv2.face.FisherFaceRecognizer_create() # traz a função de reconhecimento Fisherface
+lbph = cv2.face.LBPHFaceRecognizer_create() # traz a função de reconhecimento LBPH
+
+def getImagemComId():
+    caminhos = [os.path.join('fotos', f) for f in os.listdir('fotos')] # irá percorrer todas as imagens da pasta fotos criada na captura
+    faces = []
+    ids = []
+    for caminhoImagem in caminhos:
+        imagemFace = cv2.cvtColor(cv2.imread(caminhoImagem), cv2.COLOR_BGR2GRAY) # transforma as imagens em escala de cinza
+        id = int(os.path.split(caminhoImagem)[-1].split('.')[1]) # verifica qual o id do identificador criado na captura
+        ids.append(id)
+        faces.append(imagemFace)
+    return np.array(ids), faces
+
+ids, faces = getImagemComId()
+
+print("Treinando...") # indicação que está havendo o treinamento, conforme o reconhecedor
+eigenface.train(faces, ids)
+eigenface.write('cascades\\classificadorEigen.yml') # realiza o treinamento e cria o classificador Eingeface
+
+fisherface.train(faces, ids)
+fisherface.write('cascades\\classificadorFisher.yml') # realiza o treinamento e cria o classificador Fisherface
+
+lbph.train(faces, ids)
+lbph.write('cascades\\classificadorLBPH.yml') # realiza o treinamento e cria o classificador LBPH
+
+print("Treinamento realizado") # indica que o treinamento foi finalizado
+#depois de treinado ele vai gerar os arquivos que vão aparecer no menu ao lado e serão utilizados para o algoritmo de reconhecimento
+
+Daiane Barbosa - Etapa Consolidar - 1 Algoritmo de captura.py
+Estudo de Caso
+Algoritmo de captura das imagens
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+# Importando as bibliotecas
+import cv2
+import numpy as np
+
+classificador = cv2.CascadeClassifier("cascades\\haarcascade_frontalface_default.xml") # utilizando o haarcascade para detectar a face
+classificadorOlho = cv2.CascadeClassifier("cascades\\haarcascade_eye.xml") # utilizando o haarcascade para detectar olhos
+camera = cv2.VideoCapture(0) # 0 siginifica que irá usar a câmera padrão e 1 webcam externa
+amostra = 1
+numeroAmostras = 25 # captura de 25 imagens da face, varie a posição ao capturar
+id = input('Digite seu identificador: ') # comece com o identificador #1 para realizar captura sem máscara e #2 para com máscara
+largura, altura = 200, 200 # dimensões das imagens capturadas
+print("Capturando as faces...") # indicação de início da captura
+
+while True:
+    conectado, imagem = camera.read() # captura das imagens pela webcam
+    imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transformação das imagens em escala de cinza
+    facesDetectadas = classificador.detectMultiScale(imagemCinza, scaleFactor=1.5, minSize=(100, 100)) # detecta face nas imagens capturadas
+
+    for (x, y, l, a) in facesDetectadas:
+        cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # desenha um retângulo na face detectada
+        regiao = imagem[y:y + a, x:x + l] # dimensões do retângulo
+        regiaoCinzaOlho = cv2.cvtColor(regiao, cv2.COLOR_BGR2GRAY)
+        olhosDetectados = classificadorOlho.detectMultiScale(regiaoCinzaOlho)
+        for (ox, oy, ol, oa) in olhosDetectados:
+            cv2.rectangle(regiao, (ox, oy), (ox + ol, oy + oa), (0, 255, 0), 2) # desenha um retângulo nos olhos detectados
+
+        if cv2.waitKey(1) & 0xFF == ord('q'): # aperte a tecla Q para realizar as capturas das imagens
+            if np.average(imagemCinza) > 100:
+                imagemFace = cv2.resize(imagemCinza[y:y + a, x:x + l], (largura, altura))
+                # criar a pasta fotos: New > Directory > fotos
+                cv2.imwrite("fotos/pessoa." + str(id) + "." + str(amostra) + ".jpg", imagemFace) # nomeia as imagens capturadas
+                print("[foto " + str(amostra) + " capturada com sucesso]")
+                amostra += 1
+
+    cv2.imshow("Face", imagem)
+    cv2.waitKey(1)
+    if amostra >= numeroAmostras + 1:
+        break
+
+print("Faces capturadas com sucesso") # mensagem de finalização da captura das 25 imagens
+camera.release()
+cv2.destroyAllWindows()
+
+Daiane Barbosa - Etapa Consolidar - 3 Algoritmo de reconhecimento eigenface.py
+Estudo de Caso
+Algoritmo de reconhecimento Eigenface
+
+
+ORIENTAÇÕES:
+
+#1 - Antes de iniciar e executar o código, abra a aba Terminal, localizada na parte inferior do PyCharm e execute, na
+sequência, os seguintes comandos para instalar os recursos da biblioteca do OpenCV:
+
+pip install opencv-python
+
+pip install opencv-contrib-python
+
+#2 - Lembre-se de trazer a pasta cascades disponibilizada para dentro do PyCharm. Você pode arrastar a pasta para dentro
+do projeto, no menu lateral esquerdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+"""
+
+# Importando as bibliotecas
+import cv2
+
+detectorFace = cv2.CascadeClassifier("cascades\\haarcascade_frontalface_default.xml") # uso do haarcascade pora detectar face
+reconhecedor = cv2.face.EigenFaceRecognizer_create() # traz a função do reconhecedor Eigenface
+reconhecedor.read('cascades\\classificadorEigen.yml') # traz o classificador treinado
+largura, altura = 200, 200 # dimensão da imagem
+font = cv2.FONT_HERSHEY_COMPLEX_SMALL #tipo de letra
+camera = cv2.VideoCapture(0) # inicia a webcam para realizar o reconhecimento baseado no classificador
+
+while True:
+    conectado, imagem = camera.read() # realiza a leitura pela webcam
+    imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # transfoma a imagem em escala de cinza
+    facesDetectadas = detectorFace.detectMultiScale(imagemCinza, scaleFactor=1.5, minSize=(30, 30)) # detecta a face encontrada
+
+    for (x, y, l, a) in facesDetectadas:
+        imagemFace = cv2.resize(imagemCinza[y:y + a, x:x + l], (largura, altura)) # redimensiona o tamanha da imagem capturada
+        cv2.rectangle(imagem, (x, y), (x + l, y + a), (0, 0, 255), 2) # desenha o retângulo da detecção
+        id, confianca = reconhecedor.predict(imagemFace) # realiza a predição do reconhecimento
+        nome = ""
+        if id == 1:
+            nome = 'sem macara' # reconhecimento sem uso de máscara, conforme reconhecedor
+        elif id == 2:
+            nome = 'com mascara' # reconhecimento com uso de máscara, conforme reconhecedor
+#        elif id == 3:
+#        nome = 'com oculos' # crie outras variações se desejar
+        cv2.putText(imagem, nome, (x, y + (a + 40)), font, 2, (0, 0, 255)) # escreve o texto do reconhecimento
+        cv2.putText(imagem, str(confianca), (x, y + (a + 60)), font, 1, (0, 0, 255)) # escreve o texto do intervalo de confiança
+
+    cv2.imshow("Face", imagem) # mostra o título da janela
+    if cv2.waitKey(1) == ord('q'): # interrompe apertando a tecla Q
+        break
+
+camera.release()
+cv2.destroyAllWindows()
+CAP5
+5.1: Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre o reconhecimento de imagens?
+Assista ao vídeo "Modelos Neurais para Reconhecimento de Imagens"
+Ouça o podcast "Inteligência artificial aplicada ao reconhecimento por imagem"
+Leia o artigo "Visão computacional: conheça as aplicações e a importância para a transformação digital"
+Quais são as aplicações do reconhecimento de imagens vocês já ouviu falar?
+Leia o artigo "Inteligência Artificial: projeto para reconhecimento de imagens de veículos é desenvolvido pela UPE"
+Leia o artigo "Programa automatiza detecção de imagens digitais suspeitas"
+Leia o artigo "Machine learning” pode ser aplicado até mesmo na medicina"
+Por fim, reflita sobre as questões: "Como integrar o reconhecimento de imagens com outras técnicas de IA, como Aprendizado de Máquina e redes neurais profundas, para desenvolver sistemas mais inteligentes e adaptativos que podem aprender com os dados visualizados? De que maneira o reconhecimento de imagens pode ser utilizado para melhorar o diagnóstico médico, identificando padrões em imagens médicas (como raios-X, ressonâncias magnéticas) que são difíceis de detectar pelo olho humano?"
+
+Modelos Neurais para Reconhecimento de Imagens | Leonardo F. R. Ribeiro
+Vídeo do YouTube • ‪19 minutos‬
+
+Robô Paidégua Podcast - Inteligência artificial aplicada ao reconhecimento por imagem. | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-tj58f-8c14d4b
+
+Visão computacional: conheça a importância para a transformação digital
+https://certi.org.br/blog/visao-computacional/
+
+Inteligência Artificial: projeto para reconhecimento de imagens de veículos é desenvolvido pela UPE - FMOTORS - Folha PE
+https://www.folhape.com.br/colunistas/fmotors/inteligencia-artificial-projeto-para-reconhecimento-de-imagens-de-veiculos-e-desenvolvido-pela-upe/40277/
+
+Jornal da Unicamp
+https://www.unicamp.br/unicamp/ju/690/programa-automatiza-deteccao-de-imagens-digitais-suspeitas
+
+“Machine learning” pode ser aplicado até mesmo na medicina – Jornal da USP
+https://jornal.usp.br/radio-usp/machine-learning-pode-ser-aplicado-ate-mesmo-na-medicina/
+
+5.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "Repensando a Medicina | Computação cognitiva no reconhecimento de exames de Imagens"
+Leia o artigo "Análise Comparativa entre Algoritmos de Aprendizagem de Máquina em Classificação de Imagens de Radiografia no Auxílio ao Diagnóstico de Pneumonia"
+Ouça o podcast "Episódio 041: Pizza com imagens médicas"
+Ouça o podcast "#90 Desvendando o DL para Imagens Médicas"
+Ouça o podcast "#40 Deep Learning em imagens médicas"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Repensando a Medicina | Computação cognitiva no reconhecimento de exames de Imagens
+Vídeo do YouTube • ‪1 hora 2 minutos‬
+
+Vista do Análise comparativa entre algoritmos de aprendizagem de máquina em classiﬁcação de imagens de radiograﬁa no auxílio ao diagnóstico de pneumonia
+https://sol.sbc.org.br/index.php/erbase/article/view/8985/8886
+
+Episódio 041: Pizza com imagens médicas | Pizza de Dados
+https://podcast.pizzadedados.com/e/episodio-041/
+
+dados & saúde Podcast - #90 Desvendando o DL para Imagens Médicas — com Bruna Garbes | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-yq67h-1111b0ff
+
+dados & saúde Podcast - #40 Deep Learning em imagens médicas — Fernando Camargo | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-dnfxs-c15b8f6
+
+Apresentação da solução inicial - Visão Computacional aplicada ao reconhecimento de imagens
+Formulários Google
+
+5.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Entenda como a tecnologia funciona e quais são os setores que é usada.
+Assista ao vídeo "Introdução ao Machine Learning (ML de Zero a 100, parte 1)"
+Assista ao vídeo "Visão computacional básica com Machine Learning (ML de Zero a 100, parte 2)"
+Assista ao vídeo "Introdução às redes neurais convolucionais (ML de Zero a 100, parte 3)"
+Assista ao vídeo "O que são Redes Neurais Convolucionais?"     
+2. Realize o download do arquivo Material_complementar_caes-e-gatos.zip, decompacte-o em um local de fácil localização e, também, salve-o em seu Google Drive, conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Realize a atividade (Etapa Conceitualizar - Atividade de experimentação 63) conforme consta no Material Didático. Você precisará de algumas imagens da pasta descompactada e deverá acessar a ferramenta:
+Acesse o site "Teachable Machine"
+Assista ao vídeo "Tutorial IA para reconhecer imagens em tempo real - Treinamento IA com Teachable Machine"
+4. Use o link do Google Colab (Etapa Conceitualizar - Atividade de experimentação 64) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+Assista ao vídeo "Rede Neural Convolucional em Python para reconhecimento de imagens - gatos e cachorros"
+Leia o artigo "Classificação de imagens do zero (Image classification from scratch)". Se necessitar, você pode usar a opção de tradução da página.
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Introdução ao Machine Learning (ML de Zero a 100, parte 1)
+Vídeo do YouTube • ‪6 minutos‬
+
+Visão computacional básica com Machine Learning (ML de Zero a 100, parte 2)
+Vídeo do YouTube • ‪6 minutos‬
+
+Introdução às redes neurais convolucionais (ML de Zero a 100, parte 3)
+Vídeo do YouTube • ‪5 minutos‬
+
+O que são Redes Neurais Convolucionais? | Leonardo F. R. Ribeiro
+Vídeo do YouTube • ‪24 minutos‬
+
+caes-e-gatos.zip
+Arquivo compactado
+
+Teachable Machine
+https://teachablemachine.withgoogle.com/train?authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 64.ipynb - Colab
+https://colab.research.google.com/drive/1d2BiRaxUsHXTdaJwYlWv8P7jT-xpupGd?usp=sharing&authuser=0
+
+Tutorial IA para reconhecer imagens em tempo real - Treinamento IA com Teachable Machine
+Vídeo do YouTube • ‪1 minuto‬
+
+Rede Neural Convolucional em Python para reconhecimento de imagens - gatos e cachorros
+Vídeo do YouTube • ‪28 minutos‬
+
+Image classification from scratch
+https://keras.io/examples/vision/image_classification_from_scratch/?authuser=0
+
+5.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para: 
+Assistir ao vídeo "Reconhecimento de imagens com Keras e TensorFlow"
+Ler ao artigo "Classificação de pneumonia em TPU (Pneumonia Classification on TPU)". Se necessitar, você pode usar a opção de tradução da página.
+Ler ao artigo "Uma revisão sobre aprendizagem profunda em análise de imagens médicas (A review on deep learning in medical image analysis)". Se necessitar, você pode usar a opção de tradução da página.
+Realizar o download do arquivo raio-x-torax.zip e descompactar em um local de fácil localização. Você precisará indicar o caminho das pastas, conforme indicado no Material Didático na "Etapa Consolidar".
+Acessar o arquivo do Jupyter Notebook (Etapa Consolidar - estudo de caso) para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento de imagens
+Formulários Google
+
+Reconhecimento de imagens com Keras e TensorFlow - Fernanda Wanderley e Jéssica dos Santos
+Vídeo do YouTube • ‪39 minutos‬
+
+Pneumonia Classification on TPU
+https://keras.io/examples/vision/xray_classification_with_tpus/?authuser=0
+
+A review on deep learning in medical image analysis - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8417661/?authuser=0
+
+raio-x-torax.zip
+Arquivo compactado
+
+Etapa Consolidar - estudo de caso.ipynb
+Arquivo binário
+
+CAP 6: 
+6.1:Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre o reconhecimento de emoções?
+Assista ao vídeo "Sentir: você sabia que os computadores já podem reconhecer nossas emoções?"
+Assista ao vídeo "Câmeras de reconhecimento facial já são capazes de ler as emoções das pessoas"
+Assista ao vídeo "Emoções Básicas"
+Ouça o podcast "Computação Afetiva"
+Quais são as aplicações do reconhecimento de emoções vocês já ouviu falar?
+Leia o artigo "Empresas aderem a IA sem base científica para monitorar emoções de funcionários"
+Leia o artigo "Tecnologia Aplicada Aos Negócios: Análise Inteligente de Vídeo Para Identificação de Emoções"
+Leia o artigo "Inteligência artificial emocional: nova tecnologia é capaz de conhecer sentimentos através de movimentos faciais sutis"
+Leia o artigo "Inteligência artificial auxilia autistas a identificar emoções"
+Ouça o artigo "Computação afetiva e suas aplicações no cotidiano"
+Quais são os riscos e vieses que você imagina que podem surgir com o reconhecimento de emoções?
+Assista o artigo "O reconhecimento da expressão facial das emoções, estereótipos, preconceito e discriminação racial"
+Leia o artigo "Por que reconhecimento facial de emoções não é uma boa ideia"
+Leia o artigo "Detectar emoções humanas com inteligência artificial: fato ou falácia?"
+Por fim, reflita sobre estas questões: "De que maneira podemos desenvolver produtos e serviços que adaptam sua funcionalidade ou conteúdo em tempo real com base no reconhecimento das emoções do usuário? Como o reconhecimento de emoções pode ser utilizado para personalizar experiências de aprendizado, identificando o nível de engajamento e frustração dos alunos para ajustar o material didático ou a abordagem pedagógica?"
+
+Sentir: você sabia que os computadores já podem reconhecer nossas emoções?
+Vídeo do YouTube • ‪3 minutos‬
+
+Câmeras de reconhecimento facial já são capazes de ler as emoções das pessoas
+Vídeo do YouTube • ‪1 minuto‬
+
+Emoções Básicas - FaceReader 7.0
+Vídeo do YouTube • ‪1 minuto‬
+
+Computação Afetiva by PODCAST PPGECEMTE
+https://podcasters.spotify.com/pod/show/ppgecemte/episodes/Computao-Afetiva-e11fr68/a-a5c5qa6?authuser=0
+
+Empresas aderem a IA sem base científica para monitorar emoções de funcionários
+https://gizmodo.uol.com.br/empresas-aderem-a-ia-sem-base-cientifica-para-monitorar-emocoes-de-funcionarios/
+
+Tecnologia Aplicada Aos Negócios: Análise Inteligente De Vídeo Para Identificação De Emoções • Gocil
+https://gocil.com.br/blog/tecnologia-aplicada-aos-negocios-analise-inteligente-de-video-para-identificacao-de-emocoes/
+
+Página não encontrada - O Hoje
+https://ohoje.com/noticia/curiosidades/n/1550977/t/inteligencia-artificial-emocional-nova-tecnologia-e-capaz-de-conhecer-sentimentos-atraves-de-movimentos-faciais-sutis/
+
+Serviço indisponível no momento
+https://www.agenciaminas.mg.gov.br/noticia/inteligencia-artificial-auxilia-autistas-a-identificar-emocoes
+
+CBN Tecnologia e Novos Negócios - Ewerton Andrade Podcast - Computação afetiva e suas aplicações no cotidiano | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-4kw8g-150be4cc
+
+O reconhecimento da expressão facial das emoções, estereótipos, preconceito e discriminação racial
+Vídeo do YouTube • ‪5 minutos‬
+
+Por que reconhecimento facial de emoções não é uma boa ideia – Software – Meio Bit
+https://meiobit.com/435505/reconhecimento-facial-emocoes-nao-confiavel-reproduz-vieses/
+
+Detectar emoções humanas com inteligência artificial: fato ou falácia? - Época Negócios | IAgora?
+https://epocanegocios.globo.com/colunas/IAgora/noticia/2022/05/detectar-emocoes-humanas-com-inteligencia-artificial-fato-ou-falacia.html
+6.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Assista ao vídeo "Educação com Emoção: Usando Inteligência Artificial para Responder às Emoções dos Alunos"
+Leia o artigo "Inteligência Artificial para reconhecimento de emoções em um ambiente empresarial"
+Leia o artigo "A inteligência emocional em máquinas e o futuro da IA"
+Leia o artigo "Reconhecimento facial no Paraná impõe monitoramento de emoções em escolas"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Educação com Emoção: Usando Inteligência Artificial para Responder às Emoções dos Alunos
+Vídeo do YouTube • ‪1 hora 52 minutos‬
+Link
+https://contecsi.submissao.com.br/arquivos/6526.pdf?authuser=0
+
+A inteligência emocional em máquinas e o futuro da IA - TD | O ecossistema da Transformação Digital
+https://transformacaodigital.com/tecnologia/a-inteligencia-emocional-em-maquinas-e-o-futuro-da-ia/
+
+Reconhecimento facial monitora emoções em escolas do Paraná
+https://apublica.org/2023/10/reconhecimento-facial-no-parana-impoe-monitoramento-de-emocoes-em-escolas/?authuser=0
+
+Apresentação da solução inicial - Visão Computacional aplicada ao reconhecimento de emoções
+Formulários Google
+6.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Conheça sobre a tecnologia de reconhecimento de emoções, também conhecida como Computação Afetiva. 
+Assista ao vídeo "Reconhecimento de Emoções em Imagens com Deep Learning | Introdução"
+Assista ao vídeo "Reconhecimento de emoções com Teachable Machine do Google e os Vieses nos algoritmos"
+Ouça o podcast "Computação Afetiva"
+Ouça o podcast "Entrevista TechSocial - Computação Afetiva"
+2. Realize o download do arquivo Material_complementar_reconhecimento_emocoes.zip, e salve-o em seu Google Drive (não é necessário descompactar o arquivo), conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Use os links do Google Colab (Etapa Conceitualizar - Atividade de experimentação 65-67) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Reconhecimento de Emoções em Imagens com Deep Learning | Introdução
+Vídeo do YouTube • ‪4 minutos‬
+
+Reconhecimento de emoções com Teachable Machine do Google e os Vieses nos algoritmos
+Vídeo do YouTube • ‪14 minutos‬
+
+Computação Afetiva by CewebCast
+https://podcasters.spotify.com/pod/show/cewebcast/episodes/Computao-Afetiva-e1bg21l
+
+TechSocial Podcast - Entrevista TechSocial - Computação Afetiva | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-ydbmc-b5627db
+
+Material_complementar_reconhecimento_emocoes.zip
+Arquivo compactado
+
+Etapa Conceitualizar - Atividade de experimentação 65.ipynb - Colab
+https://colab.research.google.com/drive/12PdUEFpPFAUYvt152SJTRbx-ru8kmJM7?usp=sharing&authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 66.ipynb - Colab
+https://colab.research.google.com/drive/1xuqgzmChtCCjuAHCF93mu9SK9JgRZu1M?usp=sharing&authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 67.ipynb - Colab
+https://colab.research.google.com/drive/184ztA5XdeoODs3LrcWuoNbR67ClXc6aF?usp=sharing&authuser=0
+
+6.4: 
+Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para: 
+Ler o artigo "Modelo de reconhecimento de emoção de expressão facial integrando filosofia e teoria de aprendizado de máquina (Facial Expression Emotion Recognition Model Integrating Philosophy and Machine Learning Theory)". Se necessitar, você pode usar a opção de tradução da página.
+Ler o artigo "Métodos para reconhecimento de expressões faciais com aplicações em situações desafiadoras (Methods for Facial Expression Recognition with Applications in Challenging Situations)". Se necessitar, você pode usar a opção de tradução da página.
+Assistir ao vídeo "Reconhecimento de emoções baseado em expressão facial usando processamento de imagem (Facial Expression Based Emotion Recognition Using Image Processing)".
+Realizar o download do arquivo Material_complementar_reconhecimento_emocoes.zip e salvar no seu Google Drive ou certifique que o arquivo esteja salvo conforme as etapas anteriores (seção 6.3). Você precisará indicar o caminho das pastas, conforme indicado no Material Didático na "Etapa Consolidar".
+Acessar o link do Google Colab (Etapa Consolidar - estudo de caso) para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento de emoções
+Formulários Google
+
+Frontiers | Facial Expression Emotion Recognition Model Integrating Philosophy and Machine Learning Theory
+https://www.frontiersin.org/articles/10.3389/fpsyg.2021.759485/full?authuser=0
+
+Methods for Facial Expression Recognition with Applications in Challenging Situations - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159845/?authuser=0
+
+Facial Expression Based Emotion Recognition Using Image Processing | Python Project Source Code
+Vídeo do YouTube • ‪2 minutos‬
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento de emoções.ipynb - Colab
+https://colab.research.google.com/drive/1pd1tsj6YokbQRYSHfjRPAVbHXQUgRQsu?usp=sharing&authuser=0
+
+CAP7:
+7.1:Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre rastreamento de objetos?
+Assista ao vídeo "O que é motion tracking?"
+Assista ao vídeo "After Effects: O que é motion tracker"
+Assista ao vídeo "Classificação, Localização, Detecção, Segmentação e Rastreamento de Objetos (Visão Computacional)"
+Ouça o podcast "Vídeo Tracking – Layers ponto tech #12"
+Quais são as aplicações do rastreamento de objetos vocês já ouviu falar?
+Assista ao vídeo "Tipos de Problemas ou Tarefas em Visão Computacional"
+Por fim, reflita sobre estas questões: "De que maneira podemos empregar o rastreamento de objetos para aprimorar a autonomia de veículos, drones e robôs, permitindo que naveguem e interajam de forma mais eficiente e segura em ambientes complexos? De que maneira o rastreamento de objetos pode ser utilizado para desenvolver sistemas de segurança mais avançados e personalizados, desde monitoramento residencial até segurança em grandes eventos ou locais públicos?"
+
+O QUE É MOTION TRACKING? [Dicionário Audiovisual]
+Vídeo do YouTube • ‪1 minuto‬
+
+After Effects: O que é motion tracker
+Vídeo do YouTube • ‪2 minutos‬
+
+Classificação, Localização, Detecção, Segmentação e Rastreamento de Objetos (Visão Computacional)
+Vídeo do YouTube • ‪6 minutos‬
+
+Vídeo Tracking – Layers ponto tech #12 - Layers Ponto Tech | Podcast on Spotify
+https://open.spotify.com/episode/3rmLcxch65cffoIMzCxH4a?si=IOzkZas2RtudmntLj-4esw
+
+Tipos de Problemas ou Tarefas em Visão Computacional
+Vídeo do YouTube • ‪11 minutos‬
+7.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Leia o artigo "Como um Sistema de Rastreamento Pode Ajudar na Segurança Pessoal e de Bens"
+Leia o artigo "Câmeras de Segurança com Inteligência Artificial: Como Funcionam"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Como um Sistema de Rastreamento Pode Ajudar na Segurança Pessoal e de Bens - Rekta Soluções em Software
+https://www.rektasolucoes.com.br/sistema-rastreamento-seguranca/
+
+Câmeras de Segurança com Inteligência Artificial: Como Funcionam
+https://gestaodesegurancaprivada.com.br/cameras-de-seguranca-com-inteligencia-artificial-como-funcionam/
+
+Apresentação da solução inicial - Visão Computacional aplicada ao rastreamento de objetos
+Formulários Google
+7.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Entenda como a tecnologia de rastreamento de objetos funciona e seus algoritmos. 
+Assista: Rastreamento de Objetos (Object Tracking) - Introdução
+Leia: Caracterização de algoritmos de rastreamento de objetos em vídeo considerando situações de oclusão (Link)
+Assista: Visão Computacional com filtro de Kalman - Object Tracking
+Assista: Navegando no rastreamento de objetos com OpenCV (Navigating Object Tracking with OpenCV). Se necessitar, você pode usar a opção de tradução da página.
+Leia: Resumo de referência da OpenCV (cv::Tracker Class Reference). Se necessitar, você pode usar a opção de tradução da página.
+Ouça: Rastreamento de dados: amigo ou inimigo?
+2. Realize o download do arquivo Material_complementar_rastreamento_objetos.zip, salve-o e descompacte a pasta em um local de fácil localização, conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Use os arquivos do PyCharm (Etapa Conceitualizar - Atividade de experimentação 68-71) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Rastreamento de Objetos (Object Tracking) - Introdução
+Vídeo do YouTube • ‪4 minutos‬
+Link
+https://www.fatecourinhos.edu.br/retec/index.php/retec/article/view/77/92
+
+Visão Computacional com filtro de Kalman - Object Tracking
+Vídeo do YouTube • ‪33 minutos‬
+
+Navigating Object Tracking with OpenCV
+Vídeo do YouTube • ‪12 minutos‬
+
+OpenCV: cv::Tracker Class Reference
+https://docs.opencv.org/4.5.1/d0/d0a/classcv_1_1Tracker.html
+
+Rastreamento de dados: amigo ou inimigo?  - MIT Technology Review
+https://mittechreview.com.br/rastreamento-de-dados-amigo-ou-inimigo/?authuser=0
+
+Material_complementar_rastreamento_objetos.zip
+Arquivo compactado
+
+Etapa Conceitualizar - Atividade de experimentação 68.py
+Texto
+
+Etapa Conceitualizar - Atividade de experimentação 69.py
+Texto
+
+Etapa Conceitualizar - Atividade de experimentação 70.py
+Texto
+
+Etapa Conceitualizar - Atividade de experimentação 71.py
+Texto
+7.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para: 
+Ler o artigo "Python OpenCV – Fluxo óptico denso (Python OpenCV – Dense optical flow)". Se necessitar, você pode usar a opção de tradução da página.
+Assistir ao vídeo "OpenCV CUDA Dense Optical Flow". 
+Ler o artigo "OpenCV: Optical Flow". Se necessitar, você pode usar a opção de tradução da página.
+Realizar o download do arquivo Material_complementar_reconhecimento_objetos.zip ou certifique que arquivo esteja salvo conforme as etapas anteriores (seção 7.3). Você precisará indicar o caminho das pastas, conforme indicado no Material Didático na "Etapa Consolidar".
+Acessar o arquivo do PyCharm (Etapa Consolidar - estudo de caso) para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao rastreamento de objetos
+Formulários Google
+
+Python OpenCV - Dense optical flow - GeeksforGeeks
+https://www.geeksforgeeks.org/python-opencv-dense-optical-flow/?authuser=0
+
+OpenCV CUDA Dense Optical Flow
+Vídeo do YouTube • ‪1 minuto‬
+
+OpenCV: Optical Flow
+https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html?source=post_page-----aa6302630f7c--------------------------------&authuser=0
+
+Etapa Consolidar - estudo de caso.py
+Texto
+CAP 8: 
+8.1: Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre reconhecimento de textos com Inteligência Artificial?
+Assista ao vídeo "Você Conhece a Tecnologia OCR?"
+Assista ao vídeo "Optical Character Recognition (OCR)"
+Assista ao vídeo "O OCR - Reconhecimento ótico de caracteres e a Inteligência Artificial"
+Ouça o podcast "Reconhecimento Optico de Caracteres (OCR)"
+Quais são as aplicações do reconhecimento de textos vocês já ouviu falar?
+Leia o artigo "Um novo algoritmo analisa sua escrita à mão e consegue imitar seu estilo"
+Leia o artigo "OCR: entenda suas aplicações e perspectivas para o futuro"
+Por fim, reflita sobre estas questões: "Como podemos usar o reconhecimento de texto para criar ferramentas educacionais interativas, como aplicativos de aprendizado de idiomas que identificam e traduzem palavras em livros ou ambientes, incentivando o aprendizado imersivo? De que forma podemos utilizar o reconhecimento de texto para digitalizar e catalogar automaticamente vastos repositórios de livros e documentos históricos, tornando-os acessíveis e pesquisáveis digitalmente?"
+
+Descubra a Tecnologia OCR: Transforme Imagens em Texto Editável!
+Vídeo do YouTube • ‪5 minutos‬
+
+O que é OCR?
+Vídeo do YouTube • ‪1 minuto‬
+
+O OCR - Reconhecimento ótico de caracteres e a Inteligência artificial
+Vídeo do YouTube • ‪2 minutos‬
+
+Um novo algoritmo analisa sua escrita à mão e consegue imitar seu estilo - Giz Brasil
+https://gizmodo.uol.com.br/algoritmo-escrita-a-mao/?authuser=0
+
+403
+https://santodigital.com.br/ocr-entenda-as-suas-aplicacoes-e-perspectivas-para-o-futuro/?authuser=0
+
+8.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial.
+Leia o artigo "IA, redes neurais e reconhecimento de texto escrito à mão"
+Leia o artigo "Reconhecimento de escrita manual com Redes Neurais Convolucionais"
+Leia o artigo "Reconhecimento de texto manuscrito off-line utilizando técnicas de Deep Learning"
+Leia o artigo "Cientistas europeus criam aplicação para transcrever manuscritos antigos"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+IA, redes neurais e reconhecimento de texto escrito à mão - MyScript
+https://www.myscript.com/pt/ai/
+
+Reconhecimento de escrita manual com Redes Neurais Convolucionais | by Luís Gonçalves | luisfredgs | Medium
+https://medium.com/luisfredgs/reconhecimento-de-escrita-manual-com-redes-neurais-convolucionais-6fca996af39e
+Link
+https://periodicos.univali.br/index.php/acotb/article/view/10768/6100
+
+Cientistas europeus criam aplicação para transcrever manuscritos antigos | Euronews
+https://pt.euronews.com/2018/10/29/cientistas-europeus-criam-aplicacao-para-transcrever-manuscritos-antigos
+
+Apresentação da solução inicial - Visão Computacional aplicada ao reconhecimento de textos
+Formulários Google
+8.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Conheça sobre o reconhecimento de textos com a ferramenta OCR. 
+Assista ao vídeo "Optical Character Recognition (OCR)"
+Assista ao vídeo "Classificando textos | Processamento de Linguagem Natural"
+Ouça o podcast "Reconhecimento Optico de Caracteres (OCR)"
+Leia o artigo "Como executar o modelo OCR personalizado (How to run custom OCR model)". Se necessitar, você pode usar a opção de tradução da página.
+2. Realize o download do arquivo Material_complementar_reconhecimento_texto.zip, e salve-o em seu Google Drive (não é necessário descompactar o arquivo), conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Use os links do Google Colab (Etapa Conceitualizar - Atividade de experimentação 72-74) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Optical Character Recognition (OCR)
+Vídeo do YouTube • ‪6 minutos‬
+
+Classificando textos | Processamento de Linguagem Natural | Leonardo F. R. Ribeiro
+Vídeo do YouTube • ‪13 minutos‬
+
+Cristiane Leir Design Grafico & Digital Podcast - Reconhecimento Optico de Caracteres (OCR) | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-5tyh6-a7823e4?authuser=0
+
+OpenCV: How to run custom OCR model
+https://docs.opencv.org/4.x/d9/d1e/tutorial_dnn_OCR.html?authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 72.ipynb - Colab
+https://colab.research.google.com/drive/1Cgkpypvnn5K5eeh9c3mWHdLZoEJWxHsE?usp=sharing&authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 73.ipynb - Colab
+https://colab.research.google.com/drive/1N5WPttHxnBh3AOErbWtb7jG6_c0dC9VQ?usp=sharing&authuser=0
+
+Etapa Conceitualizar - Atividade de experimentação 74.ipynb - Colab
+https://colab.research.google.com/drive/1kwf8NdJJgFJNOKl1lNfiJdJ0uEk1c95m?usp=sharing&authuser=0
+
+Material_complementar_reconhecimento_texto.zip
+Arquivo compactado
+
+8.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para: 
+Ler o artigo "Reconhecimento de caligrafia (Handwriting recognition)". Se necessitar, você pode usar a opção de tradução da página.
+Ler o artigo "Reconhecimento óptico de caracteres (OCR)"
+Ler o artigo "Algoritmo para o reconhecimento de caracteres manuscritos"
+Ler o artigo "O que é o OCR? Guia para o reconhecimento de texto"
+Realizar o download do arquivo Material_complementar_reconhecimento_texto.zip, e salve-o no seu Google Drive ou certifique que arquivo esteja salvo conforme as etapas anteriores (seção 8.3). Você precisará indicar o caminho das pastas, conforme indicado no Material Didático na "Etapa Consolidar".
+Acessar o link do Google Colab (Etapa Consolidar - estudo de caso) para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento de textos
+Formulários Google
+
+Handwriting recognition
+https://keras.io/examples/vision/handwriting_recognition/?authuser=0
+
+examples/lite/examples/optical_character_recognition at master · tensorflow/examples · GitHub
+https://www.tensorflow.org/lite/examples/optical_character_recognition/overview?hl=pt-br&authuser=0
+
+O que é o OCR? Guia para o reconhecimento de texto - Klippa
+https://www.klippa.com/pt/blog/informacao/o-que-e-ocr/?authuser=0
+
+Vista do ALGORITMO PARA O RECONHECIMENTO DE CARACTERES MANUSCRITOS
+https://revistas.unoeste.br/index.php/ce/article/view/943/998?authuser=0
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento de texto.ipynb - Colab
+https://colab.research.google.com/drive/1eWcJqxfqzRit-hJUpBG7LHnxHxwsSKiP?usp=sharing&authuser=0
+
+CAP 9
+9.1: Esta etapa foi projetada para estimular a reflexão e o entendimento dos objetivos do capítulo. Antes de acessar os links abaixo, não se esqueça de realizar a leitura da "Etapa Inspirar" no Material Didático.
+
+O que você conhece sobre reconhecimento e sintetização de voz?
+Assista ao vídeo "O Que É Reconhecimento de Fala: Descubra o Poder da Sua Voz"
+Assista ao vídeo "Reconhecimento de voz na IA - Como que ela sabe quem descobriu o Brasil?"
+Assista ao vídeo "O que é Síntese de Fala?"
+Assista ao vídeo "O que é TTS ??? Video sobre Síntese de voz"
+Ouça o podcast "Inteligência Artificial em Reconhecimento de Voz"
+Quais são as aplicações do reconhecimento e sintetização de voz vocês já ouviu falar?
+Assista ao vídeo "O que é Reconhecimento de Voz Dependente ? - Reconhecimento de Voz #54"
+Ouça o podcast "Revolução do reconhecimento de voz - Tá No Mudo - #12 - Temporada 1"
+Quais são as implicações do reconhecimento e sintetização de voz vocês já ouviu falar?
+Ouça o podcast "STJ anula condenação baseada em reconhecimento de voz sem contraditório judicial"
+Por fim, reflita sobre estas questões: "Como a sintetização de voz pode ser utilizada para criar experiências de aprendizado personalizadas, adaptando-se ao estilo e ao ritmo de aprendizado de cada aluno? Como podemos desenvolver assistentes virtuais que não apenas respondem a comandos, mas também compreendem e antecipam as necessidades dos usuários com base em interações anteriores?"
+
+O Que É Reconhecimento de Fala: Descubra o Poder da Sua Voz
+Vídeo do YouTube • ‪6 minutos‬
+
+Reconhecimento de voz na IA - Como que ela sabe quem descobriu o Brasil?
+Vídeo do YouTube • ‪2 minutos‬
+
+O que é Síntese de Fala?
+Vídeo do YouTube • ‪3 minutos‬
+
+O que é TTS ??? Video sobre Síntese de voz + Loquendo Download
+Vídeo do YouTube • ‪3 minutos‬
+
+dados & saúde Podcast - #52 Inteligência Artificial em Reconhecimento de Voz — com José Eduardo Venson | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-hy29y-c5bfec0?authuser=0
+
+O que é Reconhecimento de Voz Dependente ? - Reconhecimento de Voz #54
+Vídeo do YouTube • ‪27 minutos‬
+
+Tá no Mudo Podcast - 🔊 Revolução do reconhecimento de voz - Tá No Mudo - #12 - Temporada 1 | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-wx25m-dfea588
+
+STJ anula condenação baseada e — Segue_Direito — Apple Podcasts
+https://podcasts.apple.com/br/podcast/stj-anula-condena%C3%A7%C3%A3o-baseada-em-reconhecimento-de/id1525921642?i=1000519253556&l=pt
+
+9.2: Antes de criar a proposta para o estudo de caso apresentado, consulte o conteúdo (disponibilizados nos links ao final da página) para contribuir com a construção de sua solução inicial. 
+Leia o artigo "Reconhecimento de voz das assistentes eletrônicas"
+Leia o artigo "5 respostas sobre a tecnologia que faz o Google Assistente parecer um humano no telefone"
+Leia o artigo "IA que cria voz: como funciona a inteligência artificial da Deep Voice?"
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário cujo link está abaixo para armazenar a sua proposta inicial de solução. Você receberá uma cópia deste formulário para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída".
+
+Cobertura | RazaoInfo Internet
+https://www.infoway.com.br/blog/interna/reconhecimento-de-voz-das-assistentes-eletronicas
+
+5 respostas sobre a tecnologia que faz o Google Assistente parecer um humano no telefone • Inteligência Artificial • Tecnoblog
+https://tecnoblog.net/especiais/google-duplex-assistente-humano-telefone/
+
+IA que cria voz: como funciona a inteligência artificial da Deep Voice? - TecMundo
+https://www.tecmundo.com.br/software/267080-ia-cria-voz-funciona-inteligencia-artificial-deep-voice.htm
+
+Apresentação da solução inicial - Visão Computacional aplicada ao reconhecimento e sintetização de voz
+Formulários Google
+
+9.3: Antes de acessar os links disponíveis ao final desta página, não se esqueça de realizar a leitura da "Etapa Conceitualizar" no Material Didático. Para cada seção ou assunto tratado orientamos que acesse os links complementares correspondentes listados a seguir.
+
+1. Entanta como é realizado o reconhecimento e sintetização de voz. 
+Assista ao vídeo "Interação por voz - VUX - VUI - Reconhecimento e síntese de Voz"
+Ouça o podcast "Teste de Turing #3: Reconhecimento de Voz"
+Ouça o podcast "Biometria de voz e reconhecimento de fala"
+2. Realize o download do arquivo Material_complementar_reconhecimento_voz.zip, e salve-o em seu Google Drive (não é necessário descompactar o arquivo), conforme indicado no Material Didático na "Etapa Conceitualizar".
+
+3. Use os links do Google Colab (Etapa Conceitualizar - Atividade de experimentação 75-77) para verificar as sugestões de implementação para as atividades de experimentação propostas.
+
+ATENÇÃO:
+Os exercícios propostos devem ser realizados na IDE escolhida por você.
+Busque compreender a proposta da atividade de experimentação.
+Para cada exercício, em caso de dúvidas, releia os trechos do material didático que tratam dos conceitos abordados.
+Comente seu código para explicar a lógica por trás de cada seção. Isso facilitará a leitura e a manutenção do código no futuro.
+Erros são parte do processo de aprendizagem, por isso não tenha medo de errar. Leia as mensagens de erro apresentadas cuidadosamente, pois elas fornecem informações valiosas sobre o que está errado.
+
+Interação por voz - VUX - VUI - Reconhecimento e síntese de Voz
+Vídeo do YouTube • ‪27 minutos‬
+
+Teste de Turing Podcast - Teste de Turing #3: Reconhecimento de Voz | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-uybq2-b5f3871?authuser=0
+
+Hextramuros Podcast - PHONEXIA - BIOMETRIA DE VOZ E RECONHECIMENTO DE FALA | Free Listening on Podbean App
+https://www.podbean.com/ew/dir-wg3kn-1c9d3dde?authuser=0
+
+Material_complementar_reconhecimento_voz.zip
+Arquivo compactado
+
+Etapa Conceitualizar - Atividade de experimentação 75.ipynb - Colab
+https://colab.research.google.com/drive/187R1cufCAsBMPgpn1UrWYbvY-xbIgtq5?usp=sharing
+
+Etapa Conceitualizar - Atividade de experimentação 76.ipynb - Colab
+https://colab.research.google.com/drive/1S1vmowhHLibEDM9TByL3Ewc_iY0pIL2_?usp=sharing
+
+Etapa Conceitualizar - Atividade de experimentação 77.ipynb - Colab
+https://colab.research.google.com/drive/1iIT5W9LqWwOm0fyW7fz-nkrsAnEcc9Fy?usp=sharing
+
+9.4: Após realizar a leitura da "Etapa Consolidar" no Material Didático, acesse os links disponibilizados ao final da página para:
+Ler o artigo "CORAA ASR: um grande corpus de fala automática preparada e validada manualmente para reconhecimento de fala em português brasileiro (CORAA ASR: a large corpus of spontaneous and prepared speech manually validated for speech recognition in Brazilian Portuguese)". Se necessitar, você pode usar a opção de tradução da página.
+Ler o artigo "Reconhecimento Automático de Fala com Transformer (Automatic Speech Recognition with Transformer)". Se necessitar, você pode usar a opção de tradução da página.
+Ler o artigo "Reconhecimento de áudio simples: reconhecendo palavras-chave"
+Realizar o download do arquivo Material_complementar_reconhecimento_voz.zip, e salve-o no seu Google Drive ou certifique que arquivo esteja salvo conforme as etapas anteriores (seção 9.3). Você precisará indicar o caminho das pastas, conforme indicado no Material Didático na "Etapa Consolidar".
+Acessar o link do Google Colab (Etapa Consolidar - estudo de caso) para verificar as sugestões de implementação do estudo de caso.
+ATENÇÃO:
+Esta atividade não será corrigida e nem valerá nota, porém, a sua realização é obrigatória como um dos requisitos para a obtenção do certificado.
+Use o formulário para armazenar a sua solução. Você receberá uma cópia para consulta futura.
+Ao finalizar, clique no botão "Marcar como concluída" no Google Sala de Aula.
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento e sintetização de voz
+Formulários Google
+
+CORAA ASR: a large corpus of spontaneous and prepared speech manually validated for speech recognition in Brazilian Portuguese | Language Resources and Evaluation
+https://link.springer.com/article/10.1007/s10579-022-09621-4?authuser=0
+
+Automatic Speech Recognition with Transformer
+https://keras.io/examples/audio/transformer_asr/?authuser=0
+
+Reconhecimento de áudio simples: reconhecendo palavras-chave  |  TensorFlow Core
+https://www.tensorflow.org/tutorials/audio/simple_audio?hl=pt-br&authuser=0
+
+Etapa Consolidar - Visão Computacional aplicada ao reconhecimento e sintetização de voz.ipynb - Colab
+https://colab.research.google.com/drive/1jlEaeExzMbsFPtWftzCEHbupsCytoatI?usp=sharing&authuser=0
+

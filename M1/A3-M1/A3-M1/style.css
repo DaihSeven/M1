@@ -1,0 +1,51 @@
+/*
+Seletores 
+
+tags: h1{}
+classes: .titulo{}
+id #nome{}
+
+*/
+
+
+/* Padronizar o estilo de todos os elementos de uma tag */
+h1{
+
+    /* Cor VScode */
+    color: rgb(58, 47, 11);
+
+    /* Alterar fonte */
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+/* Editar o estilo de varios elementos de uma ordenadamente  */
+.titulo{
+
+    /* Cor Hexadecimal */
+    color: #FF0000;
+}
+
+/* Estilizar apenas um elemento */
+
+#nome {
+
+    /* Cor RGB */
+    color: rgb(241, 241, 245);
+}
+
+/* Estilizar o fundo */
+
+body{
+    background-color: rgb(66, 70, 70);
+}
+
+/* Padroniza tags que não contem estilo proprio como classes e id */
+
+*{
+    text-align: center;
+    margin-top: 0%;
+    color: yellow;
+}
+

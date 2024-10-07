@@ -1,0 +1,35 @@
+.primeraDiv {
+    width: 50%;
+    height: 50%;
+    background-color: green;
+
+}
+
+.primeraDiv h1 {
+    display: flex;
+
+}
+
+.segundaDiv {
+    width: 800px;
+    height: 400px;
+    background-color: blue;
+
+}
+
+
+/* justify-content - Horizontal
+   align-items - Vertical 
+*/
+
+.estiloLista {
+    display: flex;
+    width: 500px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    flex-direction: row;
+    gap: 12px;
+    justify-content: space-evenly;
+    align-items: center;
+}

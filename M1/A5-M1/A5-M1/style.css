@@ -1,0 +1,50 @@
+.container {
+    width: 800px;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fistDiv {
+    width: 220px;
+    height: 220px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /* align-self: flex-start; */
+    /* margin-top: 300px; */
+    /* flex-grow: 2; */
+}
+
+.secundDiv {
+    width: 220px;
+    height: 220px;
+    background-color: green;
+}
+
+.thirdDiv {
+    width: 220px;
+    height: 220px;
+    background-color: blue;
+    /* align-self: flex-end; */
+}
+
+@media screen and (max-width: 450px) {
+    
+    .container {
+        flex-direction: column;
+    }
+    
+    .fistDiv {
+        background-color: yellow;
+    }
+}
+
+/*
+align-self - alinha si mesmo
+*/
